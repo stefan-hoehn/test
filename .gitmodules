@@ -1,0 +1,3 @@
+[submodule "workshop-sonic-pi"]
+	path = workshop-sonic-pi
+	url = https://github.com/Devoxx4KidsDE/workshop-sonic-pi.git
